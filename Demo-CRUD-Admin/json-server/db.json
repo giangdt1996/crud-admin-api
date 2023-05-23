@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "username": "Bách Cọp",
+      "email": "bach@gmail.com",
+      "age": 23,
+      "phone": "0325656252"
+    }
+  ]
+}
